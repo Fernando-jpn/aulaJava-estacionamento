@@ -1,0 +1,81 @@
+body{
+    background-color: royalblue;
+    text-align: center;
+}
+.container{
+    border: transparent ;
+    background-color: blue;
+    height: 150px;
+    padding: 10px;
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.555);
+}
+.cnome{
+    background-color: cornflowerblue;
+    border: transparent;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0px 0px 3px 3px rgba(0, 0, 0, 0.555);
+    
+}
+.cplaca{
+    background-color: cornflowerblue;
+    border: transparent;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0px 0px 3px 3px rgba(0, 0, 0, 0.555);
+}
+.ccarro{
+    background-color: cornflowerblue;
+    border: transparent;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0px 0px 3px 3px rgba(0, 0, 0, 0.555);
+}
+.cqddias{
+    background-color: cornflowerblue;
+    border: transparent;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0px 0px 3px 3px rgba(0, 0, 0, 0.555);
+    color: chartreuse;
+}
+.cvdiaria{
+    background-color: cornflowerblue;
+    border: transparent;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0px 0px 3px 3px rgba(0, 0, 0, 0.555);
+    color: chartreuse;
+}
+.calcular{
+    background-color: cornflowerblue;
+    border: transparent;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 11px;
+    box-shadow: 0px 1px 3px 3px rgba(0, 0, 0, 0.555);
+    color: chartreuse;
+}
+.limpar{
+    background-color: cornflowerblue;
+    border: transparent;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 11px;
+    box-shadow: 0px 1px 3px 3px rgba(0, 0, 0, 0.555);
+    color: chartreuse;
+}
+.sair{
+    background-color: cornflowerblue;
+    border: transparent;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 11px;
+    box-shadow: 0px 1px 3px 3px rgba(0, 0, 0, 0.555);
+    color: chartreuse;
+}
